@@ -1,2 +1,2 @@
-def sayName(name):
-    return f"hi {name}"
+def sayName(name,family):
+    return f"hi {name} {family}"
